@@ -1,5 +1,5 @@
 ## Hi there 👋
-🙋‍♀️ A short introduction - we make apps and librarys and stuff<br />
+🙋‍♀️ A short introduction - we make apps and libraries and stuff<br />
 🌈 Contribution guidelines - just make good contributions and we'll add it<br />
 👩‍💻 Useful resources - opencss docs: https://bismuthium.github.io/open-css-docs<br />
 🍿 Fun facts - dumo ate mcdonalds at 11:53 AM on march 21st 2024<br />
